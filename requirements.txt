@@ -1,0 +1,8 @@
+PyYAML
+Flask-SQLAlchemy
+Flask
+Flask-login
+SQLAlchemy
+python-dotenv
+requests
+greenlet==0.4.17
